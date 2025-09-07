@@ -6,8 +6,10 @@ voici les dependances :
 ---
 PARTLIB
   - Sert à manipuler des chemins de fichiers/dossiers de manière propre et moderne.
+---
 URLIB.PARSE
   - Sert à analyser une URL en différentes parties (schéma, domaine, chemin, etc.).
+---
 URLIB.REQUEST
   - Sert à télécharger ou ouvrir des ressources via HTTP/HTTPS (fichiers, pages web).
 
